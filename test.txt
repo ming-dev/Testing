@@ -2,5 +2,5 @@ test for repo branch 2
 1234
 56789
 1223456
-7777899
+the line conflict by branch 2
 001123
