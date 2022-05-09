@@ -4,3 +4,4 @@ test for repo branch 2
 1223456
 the line conflict by branch 2
 001123
+99999999
